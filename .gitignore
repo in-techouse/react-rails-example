@@ -36,4 +36,3 @@
 yarn-debug.log*
 .yarn-integrity
 /yarn.lock
-/Gemfile.lock
