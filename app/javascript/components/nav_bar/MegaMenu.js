@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { Link } from "react-router-dom";
-import WhiteLogo from "images/white-logo.png";
 // import Cart from '../Modal/Cart';
 
 class MegaMenu extends Component {

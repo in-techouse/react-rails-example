@@ -1,10 +1,10 @@
-import "../assets/styles/bootstrap.min.css";
-import "../assets/styles/fontawesome.min.css";
-import "../assets/styles/animate.min.css";
-import "../assets/styles/slick.css";
-import "../assets/styles/slick-theme.css";
-import "../assets/styles/style.css";
-import "../assets/styles/responsive.css";
+import "assets/styles/bootstrap.min.css";
+import "assets/styles/fontawesome.min.css";
+import "assets/styles/animate.min.css";
+import "assets/styles/slick.css";
+import "assets/styles/slick-theme.css";
+import "assets/styles/style.css";
+import "assets/styles/responsive.css";
 
 import "react-toastify/dist/ReactToastify.css";
 import "react-accessible-accordion/dist/fancy-example.css";
@@ -22,7 +22,6 @@ import Register from "./Register";
 import GoTop from "./shared/GoTop";
 import NavBar from "./nav_bar/NavBar";
 const store = configureStore();
-// import Alert from "react-bootstrap/Alert";
 
 class App extends React.Component {
   render() {
